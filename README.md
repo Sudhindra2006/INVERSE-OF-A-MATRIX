@@ -20,7 +20,11 @@ A=np.array([[2,1,1],[1,1,1],[1,-1,2]])
 result=np.linalg.inv(A)
 print(result)
 ```
+
+
 ## Output:
+
+
 
 ![alt text](<Screenshot 2025-03-22 204025.png>)
 
